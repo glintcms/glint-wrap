@@ -22,13 +22,10 @@
     "test": "npm test"
   },
   "dependencies": {
-    "async.js": "^0.9.4",
-    "debug": "^2.1.1",
+    "debug": "^2.2.0",
     "defaults": "^1.0.2",
-    "each-async": "^1.1.1",
     "flow-builder": "^1.4.2",
-    "inherits": "^2.0.1",
-    "utils-merge": "^1.0.0"
+    "inherits": "^2.0.1"
   },
   "bugs": {
     "url": "https://github.com/glintcms/glint-wrap/issues"
