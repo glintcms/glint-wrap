@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var debug = require('debug')('glint:Wrap');
+var debug = require('debug')('glint-wrap');
 var defaults = require('defaults');
 var inherits = require('inherits');
 var EventEmitter = require('events').EventEmitter;
